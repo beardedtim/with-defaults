@@ -1,0 +1,1 @@
+module.exports = defaults => opts => Object.assign({}, defaults, opts)

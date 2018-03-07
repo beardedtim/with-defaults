@@ -1,0 +1,12 @@
+{
+  "name": "with-defaults",
+  "version": "0.0.1",
+  "description": "A partially applied function to ensure defaults on an object",
+  "main": "index.js",
+  "author": "Tim Roberts <timiroberts@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
